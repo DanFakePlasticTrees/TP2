@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1570168140 source:c:\users\danre\onedrive\escritorio\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+	"ArrayEmployees.h"
+
+1570169123 c:\users\danre\onedrive\escritorio\abm\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1570169123 c:\users\danre\onedrive\escritorio\abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1570168231 source:c:\users\danre\onedrive\escritorio\abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"Functions.h"
+
+1570168904 source:c:\users\danre\onedrive\escritorio\abm\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+
+1570221905 source:c:\users\drecanatesi\downloads\utn-master\utn-master\abm\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"Functions.h"
+
+1570219491 c:\users\drecanatesi\downloads\utn-master\utn-master\abm\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1570219491 c:\users\drecanatesi\downloads\utn-master\utn-master\abm\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1570220835 source:c:\users\drecanatesi\downloads\utn-master\utn-master\abm\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+
+1570207457 source:c:\users\drecanatesi\downloads\utn-master\utn-master\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+	"ArrayEmployees.h"
+
+1570222160 source:c:\users\drecanatesi\downloads\utn-master\utn-master\tp2_dr\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"Functions.h"
+
+1570219491 c:\users\drecanatesi\downloads\utn-master\utn-master\tp2_dr\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1570219491 c:\users\drecanatesi\downloads\utn-master\utn-master\tp2_dr\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1570220835 source:c:\users\drecanatesi\downloads\utn-master\utn-master\tp2_dr\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+
+1570207457 source:c:\users\drecanatesi\downloads\utn-master\utn-master\tp2_dr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"Functions.h"
+	"ArrayEmployees.h"
+
